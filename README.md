@@ -10,7 +10,8 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://via.placeh![projeto-alura](https://user-images.githubusercontent.com/94912867/206881075-081634ff-f0a9-49e9-85e9-3aad8ed89d47.png)
+older.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
 
